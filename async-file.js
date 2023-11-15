@@ -12,5 +12,6 @@ fs.readFile("./texts/read.txt", "utf-8", (err, data) => {
     }
   });
 
-  console.log(data);
+  //   console.log(data);
 });
+console.log("testing asyncchronous");
